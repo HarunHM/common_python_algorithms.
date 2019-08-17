@@ -3,9 +3,9 @@ Common algorithms Implemented Python.
 
 
 
-# 100_random_number_sorting_Algorithm.py is a python program that implements  sort algorithm.
+ 100_random_number_sorting_Algorithm.py is a python program that implements  sort algorithm.
 
-# You can edit it to suit your  data set by altering;
+ You can edit it to suit your  data set by altering;
 
 
     for i in range(10):
@@ -13,4 +13,4 @@ Common algorithms Implemented Python.
     nums.append(x)
     
     
-# To fit the amountbof number you got
+To fit the amountbof number you got
